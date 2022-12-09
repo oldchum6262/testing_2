@@ -8,4 +8,7 @@ My to-do list in GitHub:    <br/><br/>
 - skip forward to 'future' versions and then back to 'past' versions of the code
 - practice adding branches, merging, finding out what rebasing etc is
 - maybe ask someone on GitHub to add something to my code, just as a collaborative exercise
-- stay away from Gitbash for now as it seems kind of confusing...for now
+- stay away from Gitbash for now as it seems kind of confusing...for now    <br/><br/>
+
+So, do I need to create a new branch everytime I add/edit an existing branch or does it just save/commit as a new version of said existing branch? 
+<br/><br/>
