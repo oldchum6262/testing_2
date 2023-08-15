@@ -16,4 +16,4 @@ So, do I need to create a new branch everytime I add/edit an existing branch or 
 Ah, I see. I can choose to save it to the existing branch or create a new branch.   <br/>
 Also, it seems that a 'pull request' isn't necessary when creating a new branch or even editing an old branch.   <br/><br/>
 
-I think a 'pull request' postulates the changes made to another person and they are expected to 'review' these changes or just be informed of them. I'm not sure if 'review' is the correct word here as it may mean something else in the GitHub associated jargon. Not really sure yet.
+I think a 'pull request' postulates the changes made to another person and they are expected to 'review' these changes or just be informed of them. I'm not sure if 'review' is the correct word here as it may mean something else in the GitHub associated jargon. Not really sure yet. hmm.
